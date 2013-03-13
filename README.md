@@ -1,3 +1,5 @@
+# Warning: Currently this is just a grunt-init repo !
+
 # grunt-coffee-direct
 
 > Direct proxy to the coffee-script binary
